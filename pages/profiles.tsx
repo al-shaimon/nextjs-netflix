@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { NextPageContext } from 'next';
 import { getSession } from 'next-auth/react';
 import { useRouter } from 'next/router';
